@@ -1,17 +1,14 @@
-Simple git project using a mass spring damper system to demonstrate 
-continuous integration.
+# Mass Spring Damper MATLAB Demo for Continuous Integration (CI) configuration demo
 
-[![codecov](https://codecov.io/gh/ranford/Mass-Spring-Damper/branch/master/graph/badge.svg)](https://codecov.io/gh/ranford/Mass-Spring-Damper)
-
-# Mass Spring Damper MATLAB Demo
-
-This repository contains a MATLAB demo for simulating a Mass Spring Damper system, which is a common example of a second-order system used in engineering to model mechanical systems.
+This repository contains a MATLAB demo for simulating a Mass Spring Damper system, which is a common example of a second-order system used in engineering to model mechanical systems. 
 
 ## Overview
 
 The Mass Spring Damper system is a classical mechanical system that consists of a mass attached to a wall by means of a spring and a damper. This system is widely used to demonstrate the principles of dynamics and control systems.
 
 In this demo, the differential equation governing the motion of the mass is numerically solved using MATLAB's ODE solvers. The simulation allows for varying the mass, spring constant, and damping coefficient to observe their effects on the system's behavior.
+
+We wab
 
 ## Features
 
@@ -27,6 +24,8 @@ In this demo, the differential equation governing the motion of the mass is nume
 To run this demo, you need:
 - MATLAB (R2018b or later recommended)
 - Basic understanding of control systems and MATLAB scripting
+
+[![codecov](https://codecov.io/gh/ranford/Mass-Spring-Damper/branch/master/graph/badge.svg)](https://codecov.io/gh/ranford/Mass-Spring-Damper)
 
 ### Installation
 
