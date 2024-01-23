@@ -4,7 +4,7 @@ This repository contains a MATLAB demo for simulating a Mass Spring Damper syste
 
 | **GitHub<sup>&reg;</sup>&nbsp;Actions** | 
 |:---------------------------:|
-|[![MATLAB](https://github.com/mathworks/ci-configuration-examples/actions/workflows/ci.yml/badge.svg)]([https://github.com/mathworks/ci-configuration-examples/actions/workflows/ci.yml](https://github.com/yuxudong1024/Mass-Spring-Damper/blob/main/.github/workflows/matlab-ci.yml))|
+|[![MATLAB](https://github.com/mathworks/ci-configuration-examples/actions/workflows/ci.yml/badge.svg)](https://github.com/yuxudong1024/Mass-Spring-Damper/blob/main/.github/workflows/matlab-ci.yml))|
 
 ## Overview
 
