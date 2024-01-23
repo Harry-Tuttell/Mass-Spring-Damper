@@ -2,6 +2,8 @@
 
 This repository contains a MATLAB demo for simulating a Mass Spring Damper system, which is a common example of a second-order system used in engineering to model mechanical systems. 
 
+[![MATLAB](https://github.com/mathworks/ci-configuration-examples/actions/workflows/ci.yml/badge.svg)](https://github.com/mathworks/ci-configuration-examples/actions/workflows/ci.yml) <br><br> 
+
 ## Overview
 
 The Mass Spring Damper system is a classical mechanical system that consists of a mass attached to a wall by means of a spring and a damper. This system is widely used to demonstrate the principles of dynamics and control systems.
