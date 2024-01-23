@@ -3,9 +3,6 @@ continuous integration.
 
 [![codecov](https://codecov.io/gh/ranford/Mass-Spring-Damper/branch/master/graph/badge.svg)](https://codecov.io/gh/ranford/Mass-Spring-Damper)
 
-Certainly! Below is a sample README for a Mass Spring Damper MATLAB demo:
-
-```markdown
 # Mass Spring Damper MATLAB Demo
 
 This repository contains a MATLAB demo for simulating a Mass Spring Damper system, which is a common example of a second-order system used in engineering to model mechanical systems.
