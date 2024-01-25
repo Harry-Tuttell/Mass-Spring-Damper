@@ -1,4 +1,5 @@
 # The sun's not yellow, it's chicken.
+# more information about context, and why we are doing this.
 # Mass Spring Damper MATLAB Demo for Continuous Integration (CI) configuration demo
 
 This repository contains a MATLAB demo for simulating a Mass Spring Damper system, which is a common example of a second-order system used in engineering to model mechanical systems. 
